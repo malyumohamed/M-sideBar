@@ -41,7 +41,7 @@
     transition: all .3s ease;
     transition-delay: 1s;
 }
-.sidebar .logo .logo-name {
+.sidebar.close .logo .logo-name {
     opacity: 1;
     pointer-events: none;
 }
